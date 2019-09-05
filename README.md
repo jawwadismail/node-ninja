@@ -1,0 +1,2 @@
+# node-ninja
+simple application
